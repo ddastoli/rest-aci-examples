@@ -1,0 +1,1620 @@
+{
+  "totalCount": "16",
+  "imdata": [
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-101-1-14-to-1-2-2",
+          "lcOwn": "local",
+          "linkDescr": "101-1/14 to  1-2/2",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "1",
+          "p1": "14",
+          "p2": "2",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-101-1-51-to-203-1-33",
+          "lcOwn": "local",
+          "linkDescr": "101-1/51 to  203-1/33",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "203",
+          "p1": "51",
+          "p2": "33",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-102-1-14-to-1-2-1",
+          "lcOwn": "local",
+          "linkDescr": "102-1/14 to  1-2/1",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "1",
+          "p1": "14",
+          "p2": "1",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-102-1-51-to-203-1-35",
+          "lcOwn": "local",
+          "linkDescr": "102-1/51 to  203-1/35",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "203",
+          "p1": "51",
+          "p2": "35",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-54-to-203-1-6",
+          "lcOwn": "local",
+          "linkDescr": "103-1/54 to  203-1/6",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "54",
+          "p2": "6",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-53-to-203-1-5",
+          "lcOwn": "local",
+          "linkDescr": "103-1/53 to  203-1/5",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "53",
+          "p2": "5",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-54-to-203-1-8",
+          "lcOwn": "local",
+          "linkDescr": "104-1/54 to  203-1/8",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "54",
+          "p2": "8",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-53-to-203-1-7",
+          "lcOwn": "local",
+          "linkDescr": "104-1/53 to  203-1/7",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "53",
+          "p2": "7",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-5-to-103-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/5 to  103-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "5",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-203-1-33-to-101-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/33 to  101-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "101",
+          "p1": "33",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-6-to-103-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/6 to  103-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "6",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-203-1-35-to-102-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/35 to  102-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:41:10.962+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "102",
+          "p1": "35",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-7-to-104-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/7 to  104-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "7",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-8-to-104-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/8 to  104-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "8",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-1-2-2-to-101-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/2 to  101-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "101",
+          "p1": "2",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-1-2-1-to-102-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/1 to  102-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "102",
+          "p1": "1",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    }
+  ]
+}
+{
+  "totalCount": "16",
+  "imdata": [
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-101-1-14-to-1-2-2",
+          "lcOwn": "local",
+          "linkDescr": "101-1/14 to  1-2/2",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "1",
+          "p1": "14",
+          "p2": "2",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-101-1-51-to-203-1-33",
+          "lcOwn": "local",
+          "linkDescr": "101-1/51 to  203-1/33",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "203",
+          "p1": "51",
+          "p2": "33",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-102-1-14-to-1-2-1",
+          "lcOwn": "local",
+          "linkDescr": "102-1/14 to  1-2/1",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "1",
+          "p1": "14",
+          "p2": "1",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-102-1-51-to-203-1-35",
+          "lcOwn": "local",
+          "linkDescr": "102-1/51 to  203-1/35",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "203",
+          "p1": "51",
+          "p2": "35",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-54-to-203-1-6",
+          "lcOwn": "local",
+          "linkDescr": "103-1/54 to  203-1/6",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "54",
+          "p2": "6",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-53-to-203-1-5",
+          "lcOwn": "local",
+          "linkDescr": "103-1/53 to  203-1/5",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "53",
+          "p2": "5",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-54-to-203-1-8",
+          "lcOwn": "local",
+          "linkDescr": "104-1/54 to  203-1/8",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "54",
+          "p2": "8",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-53-to-203-1-7",
+          "lcOwn": "local",
+          "linkDescr": "104-1/53 to  203-1/7",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "53",
+          "p2": "7",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-5-to-103-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/5 to  103-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "5",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-203-1-33-to-101-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/33 to  101-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "101",
+          "p1": "33",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-6-to-103-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/6 to  103-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "6",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-203-1-35-to-102-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/35 to  102-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:41:10.962+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "102",
+          "p1": "35",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-7-to-104-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/7 to  104-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "7",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-8-to-104-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/8 to  104-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "8",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-1-2-2-to-101-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/2 to  101-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "101",
+          "p1": "2",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-1-2-1-to-102-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/1 to  102-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "102",
+          "p1": "1",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    }
+  ]
+}
+{
+  "totalCount": "16",
+  "imdata": [
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-101-1-14-to-1-2-2",
+          "lcOwn": "local",
+          "linkDescr": "101-1/14 to  1-2/2",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "1",
+          "p1": "14",
+          "p2": "2",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-101-1-51-to-203-1-33",
+          "lcOwn": "local",
+          "linkDescr": "101-1/51 to  203-1/33",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "203",
+          "p1": "51",
+          "p2": "33",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-102-1-14-to-1-2-1",
+          "lcOwn": "local",
+          "linkDescr": "102-1/14 to  1-2/1",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "1",
+          "p1": "14",
+          "p2": "1",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-102-1-51-to-203-1-35",
+          "lcOwn": "local",
+          "linkDescr": "102-1/51 to  203-1/35",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "203",
+          "p1": "51",
+          "p2": "35",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-54-to-203-1-6",
+          "lcOwn": "local",
+          "linkDescr": "103-1/54 to  203-1/6",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "54",
+          "p2": "6",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-53-to-203-1-5",
+          "lcOwn": "local",
+          "linkDescr": "103-1/53 to  203-1/5",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "53",
+          "p2": "5",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-54-to-203-1-8",
+          "lcOwn": "local",
+          "linkDescr": "104-1/54 to  203-1/8",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "54",
+          "p2": "8",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-53-to-203-1-7",
+          "lcOwn": "local",
+          "linkDescr": "104-1/53 to  203-1/7",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "53",
+          "p2": "7",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-5-to-103-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/5 to  103-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "5",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-203-1-33-to-101-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/33 to  101-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "101",
+          "p1": "33",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-6-to-103-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/6 to  103-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "6",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-203-1-35-to-102-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/35 to  102-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:41:10.962+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "102",
+          "p1": "35",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-7-to-104-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/7 to  104-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "7",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-8-to-104-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/8 to  104-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "8",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-1-2-2-to-101-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/2 to  101-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "101",
+          "p1": "2",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-1-2-1-to-102-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/1 to  102-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "102",
+          "p1": "1",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    }
+  ]
+}
+{
+  "totalCount": "16",
+  "imdata": [
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-101-1-14-to-1-2-2",
+          "lcOwn": "local",
+          "linkDescr": "101-1/14 to  1-2/2",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "1",
+          "p1": "14",
+          "p2": "2",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-101-1-51-to-203-1-33",
+          "lcOwn": "local",
+          "linkDescr": "101-1/51 to  203-1/33",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:37.979+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "101",
+          "n2": "203",
+          "p1": "51",
+          "p2": "33",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-1/lnk-102-1-14-to-1-2-1",
+          "lcOwn": "local",
+          "linkDescr": "102-1/14 to  1-2/1",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "1",
+          "p1": "14",
+          "p2": "1",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "2",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-102-1-51-to-203-1-35",
+          "lcOwn": "local",
+          "linkDescr": "102-1/51 to  203-1/35",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:42.246+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "102",
+          "n2": "203",
+          "p1": "51",
+          "p2": "35",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-54-to-203-1-6",
+          "lcOwn": "local",
+          "linkDescr": "103-1/54 to  203-1/6",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "54",
+          "p2": "6",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-103-1-53-to-203-1-5",
+          "lcOwn": "local",
+          "linkDescr": "103-1/53 to  203-1/5",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:20:27.027+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "103",
+          "n2": "203",
+          "p1": "53",
+          "p2": "5",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-54-to-203-1-8",
+          "lcOwn": "local",
+          "linkDescr": "104-1/54 to  203-1/8",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "54",
+          "p2": "8",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-203/lnk-104-1-53-to-203-1-7",
+          "lcOwn": "local",
+          "linkDescr": "104-1/53 to  203-1/7",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:45:34.006+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "104",
+          "n2": "203",
+          "p1": "53",
+          "p2": "7",
+          "r1": "leaf",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-5-to-103-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/5 to  103-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "5",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-203-1-33-to-101-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/33 to  101-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "101",
+          "p1": "33",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-103/lnk-203-1-6-to-103-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/6 to  103-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:18:30.743+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "103",
+          "p1": "6",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-203-1-35-to-102-1-51",
+          "lcOwn": "local",
+          "linkDescr": "203-1/35 to  102-1/51",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:41:10.962+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "102",
+          "p1": "35",
+          "p2": "51",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-7-to-104-1-53",
+          "lcOwn": "local",
+          "linkDescr": "203-1/7 to  104-1/53",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "7",
+          "p2": "53",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-104/lnk-203-1-8-to-104-1-54",
+          "lcOwn": "local",
+          "linkDescr": "203-1/8 to  104-1/54",
+          "linkState": "ok",
+          "modTs": "2025-05-26T16:43:11.003+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "203",
+          "n2": "104",
+          "p1": "8",
+          "p2": "54",
+          "r1": "spine",
+          "r2": "unsupported",
+          "s1": "1",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-101/lnk-1-2-2-to-101-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/2 to  101-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "101",
+          "p1": "2",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    },
+    {
+      "fabricLink": {
+        "attributes": {
+          "childAction": "",
+          "dn": "topology/pod-1/lnkcnt-102/lnk-1-2-1-to-102-1-14",
+          "lcOwn": "local",
+          "linkDescr": "1-2/1 to  102-1/14",
+          "linkState": "ok",
+          "modTs": "2025-08-19T16:38:39.079+02:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "n1": "1",
+          "n2": "102",
+          "p1": "1",
+          "p2": "14",
+          "r1": "controller",
+          "r2": "unsupported",
+          "s1": "2",
+          "s2": "1",
+          "sp1": "0",
+          "sp2": "0",
+          "status": "",
+          "wiringIssues": ""
+        }
+      }
+    }
+  ]
+}
